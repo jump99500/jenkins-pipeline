@@ -1,0 +1,17 @@
+원격 마스터 브랜치에 push
+
+음....뭔가 이상해....'
+
+
+
+
+일반 Job에서 깃허브를 참고하고 있을 때
+파이프라인 Job에서 깃허브를 참고 잇을 때
+
+
+GitHub hook trigger for GITScm polling
+SCM으로 젠킨스 파이프라인 빌드해보기4
+SCM으로 젠킨스 파이프라인 빌드해보기5
+
+
+SCM으로 젠킨스 파이프라인이랑 Poll SCM Job이랑 동시에 빌드하기
