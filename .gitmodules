@@ -1,0 +1,3 @@
+[submodule "pipeline-docker"]
+	path = pipeline-docker
+	url = https://github.com/jump99500/jenkins-pipeline.git

@@ -1,0 +1,152 @@
+[33mcommit e0dc41c76950f97f0245195b4744a34cd39275a4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: 이동욱 <jojoldu@gmail.com>
+Date:   Tue Apr 2 18:32:57 2019 +0900
+
+    타입별 설정 추가
+
+[33mcommit dc9919ddf52c3679c28f5467cef5e62d438233be[m
+Merge: 637ca46 ca3a049
+Author: 이동욱 <jojoldu@gmail.com>
+Date:   Tue Mar 12 09:04:28 2019 +0900
+
+    Merge branch 'master' of https://github.com/jojoldu/jenkins-pipeline
+
+[33mcommit 637ca46916f85aac1692bb5a6400bb554f65ec7b[m
+Author: 이동욱 <jojoldu@gmail.com>
+Date:   Tue Mar 12 09:01:00 2019 +0900
+
+    아직 문법중 ㅠㅠ
+
+[33mcommit ca3a049a851464a2b441e648f43476d38c3d98f4[m
+Author: 이동욱 <jojoldu@gmail.com>
+Date:   Sat Mar 9 23:27:45 2019 +0900
+
+    단점 완성
+    
+    단점 완성
+
+[33mcommit 39d253266b3d0513989b16f741a3a910bbafa5e1[m
+Author: 이동욱 <jojoldu@gmail.com>
+Date:   Fri Mar 8 13:47:04 2019 +0900
+
+    Declarative 문법 소개중
+
+[33mcommit d20a1d4e30e531b45a3d280fc617d83e585daf46[m
+Author: 이동욱 <jojoldu@gmail.com>
+Date:   Wed Mar 6 08:56:53 2019 +0900
+
+    파이프라인 실패 캐치 정리
+
+[33mcommit 99673e108300b2c4eb5af27f9a0a33e297ff47b3[m
+Author: 이동욱 <jojoldu@gmail.com>
+Date:   Tue Mar 5 12:35:39 2019 +0900
+
+    80%완성
+
+[33mcommit 977fdab0dd9096ff8e2c2dc78d764fa79056bdf4[m
+Author: 이동욱 <jojoldu@gmail.com>
+Date:   Mon Mar 4 13:10:25 2019 +0900
+
+    1장 작성 완료
+
+[33mcommit 70420fa7c97a2947f381f167d1dc2b824a83635e[m
+Author: 이동욱 <jojoldu@gmail.com>
+Date:   Sun Mar 3 18:41:57 2019 +0900
+
+    try catch 정리중
+
+[33mcommit 2ad5f68e9aa40a95ed9f91bc3ce055e996196667[m
+Author: 이동욱 <jojoldu@gmail.com>
+Date:   Sat Mar 2 22:39:39 2019 +0900
+
+    선언적 스크립트에서 실패 무시방법 찾음
+
+[33mcommit dce6df8f15c7719db7f963d78777a9691878d0b8[m
+Author: 이동욱 <jojoldu@gmail.com>
+Date:   Fri Mar 1 21:30:43 2019 +0900
+
+    장단점 완성
+
+[33mcommit b1474d637fa177ef21bcbc1fcfdb1a8ed61aaaaa[m
+Author: 이동욱 <jojoldu@gmail.com>
+Date:   Wed Feb 27 08:52:50 2019 +0900
+
+    다시 시작
+
+[33mcommit 0d81fecfb2552548f332eb35e392c1c1ab7b8e4b[m
+Author: jojoldu <jojoldu@gmail.com>
+Date:   Fri Jan 4 16:59:24 2019 +0900
+
+    다시 시작!
+
+[33mcommit c72131377bc31f55cd20c0d8edcab7ed2816821f[m
+Author: jojoldu <jojoldu@gmail.com>
+Date:   Thu Dec 20 08:45:58 2018 +0900
+
+    declarative 문법 적용중
+
+[33mcommit 5890d718c9077e89ee26923b12c73dfa5afe7b36[m
+Author: jojoldu <jojoldu@gmail.com>
+Date:   Fri Dec 14 09:03:49 2018 +0900
+
+    장단점 정리중
+
+[33mcommit 5598247e280ccf1f609265b0efc415549d7b8982[m
+Author: jojoldu <jojoldu@gmail.com>
+Date:   Fri Nov 30 16:33:19 2018 +0900
+
+    2장 완성
+
+[33mcommit f7568e15651bd71de8e3a1aa1a408f078eece5d0[m
+Author: jojoldu <jojoldu@gmail.com>
+Date:   Thu Nov 29 15:30:22 2018 +0900
+
+    장단점 & 사용법 추가중
+
+[33mcommit 4dbcc9abde45767a9c4bf8cce99ce11499b4d231[m
+Author: jojoldu <jojoldu@gmail.com>
+Date:   Wed Nov 28 08:43:46 2018 +0900
+
+    장점 단점 추가
+
+[33mcommit df2600870119405b64a0b35697b942a0f56c4a21[m
+Author: jojoldu <jojoldu@gmail.com>
+Date:   Tue Nov 27 09:07:34 2018 +0900
+
+    2장 작성 중
+
+[33mcommit bc4bb9dd22701a2e534c2065b08721684e1721d7[m
+Author: jojoldu <jojoldu@gmail.com>
+Date:   Tue Nov 27 08:36:11 2018 +0900
+
+    1장 파일 정리
+
+[33mcommit 6326360c7b113a9f7c49f247560d1aaf3f2e1fb4[m
+Author: jojoldu <jojoldu@gmail.com>
+Date:   Mon Nov 26 10:22:18 2018 +0900
+
+    1장 완성
+
+[33mcommit 5fcffb0edbc17de542114e763b350b6c3a770226[m
+Author: jojoldu <jojoldu@gmail.com>
+Date:   Sun Nov 25 20:36:31 2018 +0900
+
+    scripted 작업중
+
+[33mcommit d35c6c89d37131168188e6790fd80029dc2ac1e6[m
+Author: jojoldu <jojoldu@gmail.com>
+Date:   Sun Nov 25 20:17:25 2018 +0900
+
+    샘플 bash 추가
+
+[33mcommit d4a7c9c8d139c36d8c616d2fbbf3324429b544e7[m
+Author: jojoldu <jojoldu@gmail.com>
+Date:   Sun Nov 25 17:27:50 2018 +0900
+
+    1장 이미지 완성
+
+[33mcommit adf3b2b92d238bc1142daec2bd40dec7467cea76[m
+Author: jojoldu <jojoldu@gmail.com>
+Date:   Fri Nov 23 08:02:04 2018 +0900
+
+    Initial commit
